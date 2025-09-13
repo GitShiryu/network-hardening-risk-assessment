@@ -7,6 +7,9 @@ This project contains a security risk assessment report for a social media organ
 - [Full Report (English)](reports/security_risk_assessment_report_EN.md)
 - [Supporting Materials](resources/network_hardening_tools_EN.pdf)
 
+- This project was developed as part of a Google/Coursera cybersecurity course exercise.
+Este projeto foi desenvolvido como parte de um exercício do curso de cybersecurity da Google/Coursera.
+
 ## Português
 Este projeto contém um relatório de avaliação de risco de segurança para uma organização de mídia social que sofreu uma violação de dados. Propõe estratégias de hardening de rede (MFA, regras de firewall, políticas de senha) para prevenir futuros incidentes.
 
